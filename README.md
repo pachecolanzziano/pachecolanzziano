@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" /> </a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pachecolanzziano&show_icons=true&locale=en" alt="pachecolanzziano" width="400" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pachecolanzziano&label=Profile%20views&color=0e75b6&style=flat" alt="pachecolanzziano" /> </p>
