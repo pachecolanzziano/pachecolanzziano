@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning JS, node, Express, Mongo.
+- 🌱 I’m currently learning JS, Node, Express, Mongo, Python.
 - 📫 How to reach me: pachecolanzziano@gmail.com
 <!--
 **pachecolanzziano/pachecolanzziano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
